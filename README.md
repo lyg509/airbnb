@@ -10,7 +10,7 @@
 <br>
 
 # 서비스 소개
-airbnb 클론 프로젝트
+<h2>Airbnb 클론 프로젝트 </h2>
 <br>
 <br>
 <br>
@@ -23,7 +23,7 @@ airbnb 클론 프로젝트
 
 # 주요 화면
 <br>
-|---|---|
+|---|
 |<img src="https://github.com/lyg509/ecommerce-app/assets/42028747/0971a128-69be-456e-ba83-1c4047a8eb2b.png">|
 |`메인 화면` |
 |<img src="https://github.com/lyg509/ecommerce-app/assets/42028747/4b5d273d-e8b6-4bf1-9add-8f77c824cd6e.gif">|
