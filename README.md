@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-![메인 이미지]<img src="https://github.com/lyg509/ecommerce-app/assets/42028747/7e7d0fb5-412d-41ab-ab31-ba6066ed09e5.png"/>
+<img src="https://github.com/lyg509/ecommerce-app/assets/42028747/7e7d0fb5-412d-41ab-ab31-ba6066ed09e5.png"/>
 
 ## 서비스 소개
 Airbnb 클론 프로젝트
