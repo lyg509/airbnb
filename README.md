@@ -6,7 +6,7 @@
 Airbnb 클론 프로젝트
 
 ## 개발 환경
-**FE** | `React``TypeScript` `Axios` `jwt`  
+**FE** | `React` `TypeScript` `Axios` `jwt`  
 **BE** | `Node.js` `Express` `MongoDB` `jsonwebtoken` `bcryptjs` `cloudinary` `multer` `nodemon`
 
 ## 주요 화면
